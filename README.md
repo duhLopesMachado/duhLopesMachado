@@ -1,9 +1,11 @@
 # 
 
-Staff Developer | Tech Lead | Fixer
+Staff Developer | Tech Lead | Fixer <br>
 **BWA** - Founder & Principal Engineer
 
-I design and build scalable systems, APIs, and digital products — currently rebuilding **BWA**, a lightweight software studio focused on delivering practical, high-impact solutions.
+I design and build scalable systems, APIs, and digital products <br>
+Currently rebuilding **BWA**, a lightweight software studio <br>
+focused on delivering practical, intelligent, high-impact solutions.
 
 ### 🔧 
 - Backend: .NET, Node.js, + ...
@@ -18,17 +20,17 @@ I design and build scalable systems, APIs, and digital products — currently re
 - High & real impact solutions 
 
 ### 🚀 
-Building impact, making the difference through 
-smart, modern & elegant software solutions.
-
-We have a responsibility 
-to make this world 
-a better place. 
-
+Building impact, making the difference <br>
+through **smart, modern & elegant solutions**. <br>
+ <br>
+We have a responsibility <br> 
+to make this world <br> 
+a better place. <br> 
+ <br>
 Build the future.
 
 ### STRONGER TOGETHER 
 
-📍 Brazil — with no limits, without borders
-🔗 LinkedIn: https://linkedin.com/in/duhlopesmachado
+📍 Brazil — with no limits, without borders <br>
+🔗 LinkedIn: https://linkedin.com/in/duhlopesmachado <br>
 🌐 Website: https://bosswebapps.net 
