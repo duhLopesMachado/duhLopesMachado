@@ -1,36 +1,83 @@
-# 
+#
+Staff FullStack Engineer • Tech Lead • Fixer <br>
+**BWA** @ Founder & Principal Engineer  
 
-Staff Developer | Tech Lead | Fixer <br>
-**BWA** - Founder & Principal Engineer
+Designing secure, scalable and high-impact digital solutions  
+focused on real-world performance, reliability and longevity.
 
-I design and build scalable systems, APIs, and digital products <br>
-Currently rebuilding **BWA**, a lightweight software studio <br>
-focused on delivering practical, intelligent, high-impact solutions.
 
-### 🔧 
-- Backend: .NET, Node.js, + ...
-- Frontend: Angular, React, ReactNative, + ...
-- Databases: SQL Server, Oracle, Postgree, MySQL, MongoDB, + ...
-- Cloud & DevOps: Azure, GitHub.Actions, CI/CD, production troubleshooting, + ...
+#### 🔆 About
 
-### 🧠 
-- Clean architecture, quality & security, over hype
-- Building dreams into reality 
-- Systems that survive real-world usage
-- High & real impact solutions 
+I design and build distributed systems, enterprise APIs and modern digital platforms.
 
-### 🚀 
+Currently rebuilding **BWA** - a software studio <br>
+focused on creating practical, intelligent and elegant, high-impact solutions. 
+
+I specialize in transforming complex problems into resilient systems
+that survive production reality.
+
+#### 🧠 Principles
+
+- Quality over hype
+- Security over convenience
+- Simplicity over cleverness
+- Architecture over improvisation
+- Systems built for real usage
+- Sustainable development
+
+#### ♨️ Focus
+
+- Enterprise & Financial-grade systems
+- Scalable backend architectures
+- Microfrontend ecosystems
+- Secure API design
+- Performance & production troubleshooting
+- Long-term maintainable software
+
+#### 💎 Main Tech Stack
+
+**Backend.:**  
+.NET • Node.js • BFFs & APIs • Distributed Services  
+
+**Frontend.:**  
+Angular • React • React Native • Modern Web Architecture  
+
+**Data.:**  
+SQL Server • PostgreSQL • Oracle • MySQL • MongoDB  
+
+**Cloud & DevOps.:**  
+Azure • GitHub Actions • Containerized deployments  
+
+**Security.:**  
+Secure architecture • Pentesting mindset • Production resilience
+
+
+#### 🏢 BWA | Software Studio 
+
+**Building technology that enables people and organizations
+to move faster, safely and sustainably.**
+
+**BWA** is an evolving ecosystem focused on:
+
+- Modular platform architecture
+- Autonomous system design
+- Scalable product foundations
+- High-impact digital solutions
+
+#### ✴️ 
+
+Technology carries responsibility.<br>
+<br>
+Software should improve lives, empower people, and help build a better future.<br>
+<br>
 Building impact, making the difference <br>
 through **smart, modern & elegant solutions**. <br>
- <br>
-We have a responsibility <br> 
-to make this world <br> 
-a better place. <br> 
- <br>
-Build the future.
+<br>
+**Build the future.**
 
-### STRONGER TOGETHER 
+### ⚡⚡⚡ STRONGER TOGETHER 
 
-📍 Brazil — with no limits, without borders <br>
+📍 Brazil — with no limits, without borders
+
 🔗 LinkedIn: https://linkedin.com/in/duhlopesmachado <br>
-🌐 Website: https://bosswebapps.net 
+🌐 Website: https://bosswebapps.net
