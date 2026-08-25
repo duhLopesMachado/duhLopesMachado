@@ -1,84 +1,120 @@
-#
+# **BWA** @ Founder & Principal Engineer
+### BUILD • THE • FUTURE
 
-**BWA** @ Founder   
-BUILD • THE • FUTURE <br>
+I design and build secure, scalable and resilient digital systems —
+from enterprise APIs and distributed architectures to modern platforms
+that survive real production.
 
-Designing secure, scalable and high-impact digital solutions  
-focused on real-world performance, reliability and longevity.
+Currently rebuilding **BWA — Software Studio**:
+a technology studio focused on practical, intelligent and elegant solutions
+built for real-world performance, reliability and longevity.
 
+---
 
-#### 🔆 About
+## 🔆 About
 
-I design and build distributed systems, enterprise APIs and modern digital platforms.
+I turn complex problems into systems that work.
 
-Currently rebuilding **BWA** - a software studio <br>
-focused on creating practical, intelligent and elegant, high-impact solutions. 
+My work sits at the intersection of **architecture, engineering, security
+and production reality** — designing software that remains maintainable
+when the easy part is over.
 
-I specialize in transforming complex problems into resilient systems
-that survive production reality.
+I enjoy the hard problems:
+distributed systems, enterprise platforms, legacy modernization,
+performance bottlenecks, security boundaries and systems that simply
+refuse to behave.
 
-#### 🧠 Principles
+---
 
-- Quality over hype
-- Security over convenience
-- Simplicity over cleverness
-- Architecture over improvisation
-- Systems built for real usage
-- Sustainable development
+## 🧠 Principles
 
-#### ♨️ Focus
+- **Quality over hype**
+- **Security over convenience**
+- **Simplicity over cleverness**
+- **Architecture over improvisation**
+- **Reality over theory**
+- **Long-term over shortcuts**
 
-- Enterprise & Financial-grade systems
-- Scalable backend architectures
+Build it right.
+Make it last.
+
+---
+
+## ♨️ Focus
+
+- Enterprise & financial-grade systems
+- Distributed & scalable architectures
+- Secure API & backend design
 - Microfrontend ecosystems
-- Secure API design
 - Performance & production troubleshooting
+- Legacy modernization
+- DevOps & CI/CD
+- Security-minded engineering
 - Long-term maintainable software
 
-#### 💎 Main Tech Stack
+---
 
-**Backend.:**  
-.NET • Node.js • BFFs & APIs • Distributed Services  
+## 💎 Main Stack
 
-**Frontend.:**  
-Angular • React • React Native • Modern Web Architecture  
+**Backend**  
+.NET • Node.js • BFFs • APIs • Distributed Services
 
-**Data.:**  
-SQL Server • PostgreSQL • Oracle • MySQL • MongoDB  
+**Frontend**  
+Angular • React • React Native • Modern Web Architecture
 
-**Cloud & DevOps.:**  
-Azure • GitHub Actions • Containerized deployments  
+**Data**  
+SQL Server • PostgreSQL • Oracle • MySQL • MongoDB
 
-**Security.:**  
-Secure architecture • Pentesting mindset • Production resilience
+**Cloud & DevOps**  
+Azure • GitHub Actions • Docker • CI/CD
 
+**Security**  
+Secure Architecture • Threat Modeling • Pentesting Mindset
+• Production Resilience
 
-#### 🏢 BWA | Software Studio 
+---
+
+## 🏢 BWA — Software Studio
 
 **Building technology that enables people and organizations
 to move faster, safely and sustainably.**
 
-**BWA** is an evolving ecosystem focused on:
+BWA is the studio I'm rebuilding around a simple idea:
+
+> **Build useful things. Build them well. Build them to last.**
+
+Focused on:
 
 - Modular platform architecture
-- Autonomous system design
 - Scalable product foundations
-- High-impact digital solutions
+- Autonomous systems
+- Intelligent digital solutions
+- Real-world software products
 
-#### ✴️ 
+→ **@BWA-Software-Studio**
 
-Technology carries responsibility.<br>
-<br>
-Software should improve lives, empower people, and help build a better future.<br>
-<br>
-Building impact, making the difference <br>
-through **smart, modern & elegant solutions**. <br>
-<br>
-**Build the future.**
+---
 
-### ⚡⚡⚡ STRONGER TOGETHER 
+## ✴️ The Why
 
-📍 Brazil — with no limits, without borders
+Technology carries responsibility.
 
-🔗 LinkedIn: https://linkedin.com/in/duhlopesmachado <br>
-🌐 Website: https://bosswebapps.net
+Software should improve lives,
+empower people,
+and help organizations move forward.
+
+**Build impact.  
+Make the difference.**
+
+Through **smart, modern & elegant solutions.**
+
+---
+
+# ⚡ STRONGER TOGETHER
+
+📍 Brazil — **without limits. Without borders.**
+
+🔗 LinkedIn: https://linkedin.com/in/duhlopesmachado  
+🌐 BWA: https://bosswebapps.net
+
+### **BUILD THE FUTURE.**
