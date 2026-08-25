@@ -1,4 +1,4 @@
-# **BWA** @ Founder & Principal Engineer
+# **BWA** @ Founder 
 ### BUILD • THE • FUTURE
 
 I design and build secure, scalable and resilient digital systems —
