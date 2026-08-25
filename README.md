@@ -11,7 +11,7 @@ built for real-world performance, reliability and longevity.
 
 ---
 
-## 🔆 About
+#### 🔆 About
 
 I turn complex problems into systems that work.
 
@@ -26,7 +26,7 @@ refuse to behave.
 
 ---
 
-## 🧠 Principles
+### 🧠 Principles
 
 - **Quality over hype**
 - **Security over convenience**
@@ -40,7 +40,7 @@ Make it last.
 
 ---
 
-## ♨️ Focus
+#### ♨️ Focus
 
 - Enterprise & financial-grade systems
 - Distributed & scalable architectures
@@ -54,7 +54,7 @@ Make it last.
 
 ---
 
-## 💎 Main Stack
+#### 💎 Main Stack
 
 **Backend**  
 .NET • Node.js • BFFs • APIs • Distributed Services
@@ -74,7 +74,7 @@ Secure Architecture • Threat Modeling • Pentesting Mindset
 
 ---
 
-## 🏢 BWA — Software Studio
+### 🏢 BWA — Software Studio
 
 **Building technology that enables people and organizations
 to move faster, safely and sustainably.**
@@ -95,7 +95,7 @@ Focused on:
 
 ---
 
-## ✴️ The Why
+### ✴️ The Why
 
 Technology carries responsibility.
 
@@ -110,7 +110,7 @@ Through **smart, modern & elegant solutions.**
 
 ---
 
-# ⚡ STRONGER TOGETHER
+#### ⚡ STRONGER TOGETHER
 
 📍 Brazil — **without limits. Without borders.**
 
