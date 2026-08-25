@@ -1,6 +1,7 @@
 #
-Staff FullStack Engineer • Tech Lead • Fixer <br>
-**BWA** @ Founder & Principal Engineer  
+
+**BWA** @ Founder   
+BUILD • THE • FUTURE <br>
 
 Designing secure, scalable and high-impact digital solutions  
 focused on real-world performance, reliability and longevity.
